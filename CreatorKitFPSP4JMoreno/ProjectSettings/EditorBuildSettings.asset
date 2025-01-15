@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Creator Kit - FPS/Scenes/Julia'sScene.unity
+    guid: 4b5260520097e4b4ab3b9f0fcbddb14f
   m_configObjects: {}
